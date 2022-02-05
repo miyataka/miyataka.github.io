@@ -1,7 +1,7 @@
 # miyataka.github.io
 
 ## Skills
-- language and frameworks
+- Language and Frameworks
     - Ruby
     - Ruby on Rails
     - Go
@@ -12,7 +12,7 @@
     - Java
     - Dart
     - Flutter
-- databases
+- Databases
     - MySQL
     - Oracle
     - mongoDB
@@ -32,3 +32,8 @@
     - AWS CodePipeline
     - CircleCI
     - Jenkins
+
+## Profiles
+- 2015-2018 IT consultant
+- 2018-2020 Software Engineer
+- 2020-     CTO
