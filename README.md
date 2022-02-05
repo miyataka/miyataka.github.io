@@ -1,1 +1,34 @@
 # miyataka.github.io
+
+## Skills
+- language and frameworks
+    - Ruby
+    - Ruby on Rails
+    - Go
+    - JavaScript/TypeScript
+    - React
+    - Next.js
+    - Vue.js
+    - Java
+    - Dart
+    - Flutter
+- databases
+    - MySQL
+    - Oracle
+    - mongoDB
+    - AWS DynamoDB
+    - Redis
+- Infrastructure/Network
+    - Docker
+    - Ansible
+    - AWS
+        - ECS
+        - CloudFormation
+    - GCP
+        - firebase
+    - Vagrant
+- CI/CD
+    - GitHub Actions
+    - AWS CodePipeline
+    - CircleCI
+    - Jenkins
